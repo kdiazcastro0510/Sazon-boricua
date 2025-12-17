@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Sazón Boricua 🇵🇷</title>
+
+<style>
+body{
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  margin:0;
+  background: linear-gradient(#fff1d6,#ffe8c2);
+  color:#222;
+}
+header{
+  background: linear-gradient(to right,#d62828,#f77f00,#003049);
+  color:white;
+  padding:25px;
+  text-align:center;
+}
+nav a{
+  color:white;
+  font-weight:bold;
+  margin:0 12px;
+  text-decoration:none;
+}
+section{
+  padding:30px;
+  background:white;
+  margin:30px auto;
+  max-width:1000px;
+  border-radius:18px;
+  box-shadow:0 10px 25px rgba(0,0,0,.15);
+}
+h2{color:#003049}
+h3{color:#d62828}
+footer{
+  background:#003049;
+  color:white;
+  text-align:center;
+  padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>🇵🇷 Sazón Boricua 🇵🇷</h1>
+  <p>Puerto Rican Food • Culture • Family • Tradition 🇵🇷</p>
+  <nav>
+    <a href="#home">Home 🇵🇷</a>
+    <a href="#recipes-en">Recipes (EN) 🇵🇷</a>
+    <a href="#recipes-es">Español 🇵🇷</a>
+    <a href="#funfacts">Fun Facts 🇵🇷</a>
+  </nav>
+</header>
+
+<section id="home">
+<h2>Who I Am & Why This Website Matters 🇵🇷</h2>
+<p>
+My name is <strong>Keishlyan Diaz Castro</strong>, and Sazón Boricua was created out of
+love for Puerto Rican culture and the traditions that live inside our kitchens.
+Growing up, food was never just food — it was how family connected, how elders taught,
+and how culture was passed down without ever needing a textbook.
+</p>
+<p>
+This website exists because many traditional Puerto Rican recipes are shared verbally
+and risk being lost over time. By documenting them in detail, I am helping preserve
+culture, family history, and identity. Sazón Boricua is meant for Puerto Rican families,
+future generations, and anyone who wants to learn respectfully.
+</p>
+</section>
+
+<section id="recipes-en">
+<h2>Traditional Recipes (English) 🇵🇷</h2>
+
+<h3>Arroz con Gandules</h3>
+<p><strong>Ingredients:</strong> rice, gandules, sofrito, sazón, water.</p>
+<p><strong>Steps:</strong> Build flavor with sofrito, coat rice, simmer slowly, rest before serving.</p>
+
+<h3>Pasteles</h3>
+<p><strong>Ingredients:</strong> green bananas, yautía, pork filling, banana leaves.</p>
+<p><strong>Steps:</strong> Prepare masa, add filling, wrap, boil, and rest.</p>
+
+<h3>Lechón Asado</h3>
+<p><strong>Ingredients:</strong> pork shoulder, garlic, adobo, citrus.</p>
+<p><strong>Steps:</strong> Marinate overnight, roast low and slow, crisp at the end.</p>
+
+<h3>Coquito</h3>
+<p><strong>Ingredients:</strong> coconut milk, condensed milk, evaporated milk, rum.</p>
+<p><strong>Steps:</strong> Blend, chill overnight, shake before serving.</p>
+
+<h3>Flan de Queso</h3>
+<p><strong>Ingredients:</strong> milks, cream cheese, eggs.</p>
+<p><strong>Steps:</strong> Blend, bake in water bath, chill, invert.</p>
+
+<h3>Tembleque</h3>
+<p><strong>Ingredients:</strong> coconut milk, sugar, cornstarch.</p>
+<p><strong>Steps:</strong> Cook while stirring, chill, sprinkle cinnamon.</p>
+</section>
+
+<section id="recipes-es">
+<h2>Recetas en Español 🇵🇷</h2>
+
+<h3>Arroz con Gandules</h3>
+<p>Este plato es tradicional en Navidad. Se cocina lentamente para que el arroz absorba
+todo el sabor del sofrito y el sazón.</p>
+
+<h3>Pasteles</h3>
+<p>Los pasteles representan unión familiar. Se preparan en grandes cantidades durante
+las fiestas.</p>
+
+<h3>Lechón Asado</h3>
+<p>El lechón se marina y se cocina lentamente hasta quedar tierno y dorado.</p>
+
+<h3>Coquito</h3>
+<p>Bebida navideña hecha con coco, especias y ron.</p>
+
+<h3>Flan de Queso</h3>
+<p>Postre cremoso hecho al baño de María.</p>
+
+<h3>Tembleque</h3>
+<p>Postre de coco tradicional servido frío con canela.</p>
+</section>
+
+<section id="funfacts">
+<h2>Fun Facts 🇵🇷</h2>
+<ul>
+<li>🇵🇷 Arroz con gandules is Puerto Rico’s national dish.</li>
+<li>🇵🇷 Many recipes are passed down orally.</li>
+<li>🇵🇷 Food is central to Puerto Rican holidays.</li>
+</ul>
+</section>
+
+<footer>
+🇵🇷 © 2025 Sazón Boricua | Keishlyan Diaz Castro 🇵🇷
+</footer>
+
+</body>
+</html>
